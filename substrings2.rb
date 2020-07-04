@@ -17,4 +17,4 @@ def substrings(string, dict)
   print result
 end
 
-substrings("please, don't break my heart!", dictionary)
+substrings("please... don't break my heart!", dictionary)
